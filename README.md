@@ -45,3 +45,7 @@ O aplicativo possui duas visões e tipos de usuário. O **Cliente** (a pessoa qu
 |Aplicação | Figma | Github|
 |---------------|-----------------|-------------------|
 [Clique aqui]() | [Clique aqui](https://www.figma.com/design/kySel05W8v1QxX6rSzs4UL/Biblioteca-PIBJG?m=auto&t=T6TFYsdIuDynBhDb-1) | [Clique aqui](https://github.com/Fisaq/app-cantinho-leitura)
+
+### 1.5 Em produção:
+
+[Demonstração do app em funcionamento]()
