@@ -49,11 +49,6 @@ O aplicativo possui duas visões e tipos de usuário. O **Cliente** (a pessoa qu
 
 ### 1.5 Em produção:
 
-<div style={}>
-    https://github.com/user-attachments/assets/9c2ef033-2683-4d96-9b32-2aef23314b45
-</div>
-
+https://github.com/user-attachments/assets/032a02d8-7585-4f6d-bba4-bdbbeeeffe5f
 
 Demonstração do app em funcionamento
-
-
