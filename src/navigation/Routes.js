@@ -7,9 +7,9 @@ import PathScreen from '../screens/PathScreen';
 import ClienteLogin from '../screens/pathsClient/ClienteLogin';
 import ClienteCadastro from '../screens/pathsClient/ClienteCadastro';
 import ClientePrincipal from '../screens/pathsClient/ClientePrincipal';
-import ClienteDetalheLivroPrincipal from '../screens/pathsClient/ClienteDetalheLivroPrincipal';
-import ClienteBiblioteca from '../screens/pathsClient/ClienteBiblioteca';
-import ClienteDetalheLivroBiblioteca from '../screens/pathsClient/ClienteDetalheLivroBiblioteca';
+//import ClienteDetalheLivroPrincipal from '../screens/pathsClient/ClienteDetalheLivroPrincipal';
+//import ClienteBiblioteca from '../screens/pathsClient/ClienteBiblioteca';
+//import ClienteDetalheLivroBiblioteca from '../screens/pathsClient/ClienteDetalheLivroBiblioteca';
 
 //Telas Gerente
 import GerenteLogin from '../screens/pathsAdm/GerenteLogin';
@@ -26,9 +26,9 @@ export default function Routes() {
         <Stack.Screen name="GerenteLogin" component={GerenteLogin} options={{title: 'Login Gerente'}} />
         <Stack.Screen name="ClienteCadastro" component={ClienteCadastro} options={{title: 'Cadastro Cliente'}} />
         <Stack.Screen name="ClientePrincipal" component={ClientePrincipal} options={{title: 'Principal Cliente'}} />
-        <Stack.Screen name="ClienteDetalheLivroPrincipal" component={ClienteDetalheLivroPrincipal} options={{title: 'Detalhe Livro Cliente'}} />
-        <Stack.Screen name="ClienteBiblioteca" component={ClienteBiblioteca} options={{title: 'Biblioteca Cliente'}} />
-        <Stack.Screen name="ClienteDetalheLivroBiblioteca" component={ClienteDetalheLivroBiblioteca} options={{title: 'Detalhe Livro Biblioteca Cliente'}} />
+        //<Stack.Screen name="ClienteDetalheLivroPrincipal" component={ClienteDetalheLivroPrincipal} options={{title: 'Detalhe Livro Cliente'}} />
+        //<Stack.Screen name="ClienteBiblioteca" component={ClienteBiblioteca} options={{title: 'Biblioteca Cliente'}} />
+        //<Stack.Screen name="ClienteDetalheLivroBiblioteca" component={ClienteDetalheLivroBiblioteca} options={{title: 'Detalhe Livro Biblioteca Cliente'}} />
       </Stack.Navigator>
     </NavigationContainer>
   );
