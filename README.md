@@ -25,6 +25,7 @@ O aplicativo possui duas visões e tipos de usuário. O **Cliente** (a pessoa qu
     - O cliente informa a data de início do empréstimo e a data de fim do empréstimo é registrada automaticamente (30 dias corridos).
     - Após clicar no botão **Concluído** uma mensagem aparece dizendo que o empréstimo ocorreu com sucesso.
 
+
 ### 1.2 Visão Gerente:
 
 - **Tela de Cadastro Usuário:**
@@ -48,4 +49,11 @@ O aplicativo possui duas visões e tipos de usuário. O **Cliente** (a pessoa qu
 
 ### 1.5 Em produção:
 
-[Demonstração do app em funcionamento]()
+<div style={}>
+    https://github.com/user-attachments/assets/9c2ef033-2683-4d96-9b32-2aef23314b45
+</div>
+
+
+Demonstração do app em funcionamento
+
+
